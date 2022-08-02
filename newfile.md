@@ -7,4 +7,4 @@ Check your Crazy life. Also, here  is a cool picture -
 ![The city of Herat from the Air!](/DSC_0618.jpg "AH-64D Apache over Herat, Afganistan")
 
 
-Here is my test conflict.
+git conflicts are called gituations, the get easier to fix later.
